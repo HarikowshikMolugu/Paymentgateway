@@ -1,0 +1,39 @@
+ball {
+    position: absolute;
+    border-radius: 100%;
+    opacity: 0.7;
+  }
+.donate-button{
+    text-align: center;
+}
+.heading{
+    padding-top: 5%;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: antiquewhite;
+}
+.maintain{
+    align-items: right;
+}
+.subheading{
+
+    text-align: center;
+    font-style: italic;
+    font-weight: 150;
+    font-size: 30px;
+    color:gold;
+   }
+.background{
+    background-image: url('img3.jpg');
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.button{
+    background-color: cyan;
+    border-radius: 10px;
+    height: 30px;
+    width: 100px;
+    margin-left: 45%;
+    
+}
